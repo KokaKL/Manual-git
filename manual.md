@@ -9,3 +9,5 @@
 
 * git diff - запускает внешнюю утилиту сравнения для показа различий;
 * Git checkout - позволяет перемещаться между ветками.
+
+## Скачать Git можно с официального сайта [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git]
